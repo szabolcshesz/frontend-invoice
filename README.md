@@ -1,1 +1,1 @@
-Playground
+Playground for frontend invoice
